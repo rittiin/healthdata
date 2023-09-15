@@ -1,0 +1,813 @@
+﻿HN,Education,age,hypertension,heart_disease,family history,Occupation,Triglycerides,Blood Sugar,BMI,smoking_status,alzheimer
+11046,Secondary School,67,0,1,Yes,Private,Normal,228.69,36.6,formerly smoked,1
+35112,Secondary School,80,0,1,Yes,Private,High,105.92,32.5,never smoked,1
+1665,Bachelor,79,1,0,Yes,Freelance,High,174.12,24,never smoked,1
+66889,Secondary School,81,0,0,Yes,Private,Normal,186.21,29,formerly smoked,1
+53882,Secondary School,74,1,1,Yes,Private,High,70.09,27.4,never smoked,1
+80434,Bachelor,69,0,0,No,Private,Normal,94.39,22.8,never smoked,1
+60491,Bachelor,78,0,0,Yes,Private,Normal,58.57,24.2,Unknown,1
+12109,Bachelor,81,1,0,Yes,Private,High,80.43,29.7,never smoked,1
+38213,Secondary School,78,0,1,Yes,Private,Normal,219.84,N/A,Unknown,1
+95317,Bachelor,79,0,1,Yes,Private,Normal,214.09,28.2,never smoked,1
+34120,Secondary School,75,1,0,Yes,Private,Normal,221.29,25.8,smokes,1
+70630,Bachelor,71,0,0,Yes,Officer,High,193.94,22.4,smokes,1
+68794,Bachelor,79,0,0,Yes,Freelance,Normal,228.7,26.6,never smoked,1
+64778,Secondary School,82,0,1,Yes,Private,High,208.3,32.5,Unknown,1
+94219,Secondary School,71,0,0,Yes,Private,Normal,102.87,27.2,formerly smoked,1
+70822,Secondary School,80,0,0,Yes,Freelance,High,104.12,23.5,never smoked,1
+54827,Secondary School,69,0,1,Yes,Freelance,Normal,195.23,28.3,smokes,1
+39373,Bachelor,82,1,0,Yes,Freelance,Normal,196.92,22.2,never smoked,1
+54401,Secondary School,80,0,1,Yes,Freelance,Normal,252.72,30.5,formerly smoked,1
+22712,Bachelor,82,1,1,No,Private,High,84.03,26.5,formerly smoked,1
+47269,Secondary School,74,0,0,Yes,Private,High,219.72,33.7,formerly smoked,1
+24977,Bachelor,72,1,0,Yes,Private,High,74.63,23.1,formerly smoked,1
+94651,Secondary School,78,0,0,Yes,Private,High,78.03,23.9,formerly smoked,1
+61960,Secondary School,82,0,1,Yes,Private,Normal,144.9,26.4,smokes,1
+19824,Secondary School,76,1,0,Yes,Private,High,243.58,33.6,never smoked,1
+37937,Bachelor,75,0,1,No,Freelance,Normal,109.78,N/A,Unknown,1
+35626,Secondary School,81,0,0,Yes,Freelance,Normal,99.33,33.7,never smoked,1
+47167,Bachelor,77,1,0,Yes,Freelance,Normal,124.13,31.4,never smoked,1
+58631,Secondary School,73,1,0,Yes,Freelance,Normal,194.99,32.8,never smoked,1
+65842,Bachelor,67,1,0,Yes,Freelance,High,61.94,25.3,smokes,1
+7356,Secondary School,75,0,0,Yes,Private,Normal,104.72,N/A,Unknown,1
+17013,Secondary School,78,1,0,No,Private,Normal,113.01,24,never smoked,1
+17004,Bachelor,70,0,0,Yes,Private,Normal,221.58,47.5,never smoked,1
+72366,Secondary School,76,0,0,Yes,Private,Normal,104.47,20.3,Unknown,1
+7371,Bachelor,80,1,0,Yes,Freelance,High,72.67,28.9,never smoked,1
+70676,Bachelor,76,0,0,Yes,Officer,High,62.57,N/A,formerly smoked,1
+2326,Bachelor,67,1,0,Yes,Private,High,179.12,28.1,formerly smoked,1
+27169,Bachelor,66,1,0,Yes,Officer,High,116.55,31.1,formerly smoked,1
+66159,Bachelor,80,0,1,Yes,Freelance,High,66.72,21.7,formerly smoked,1
+36236,Secondary School,80,1,0,Yes,Private,Normal,240.09,27,never smoked,1
+71673,Bachelor,79,0,0,Yes,Private,Normal,110.85,24.1,formerly smoked,1
+26015,Bachelor,66,0,0,Yes,Freelance,Normal,101.45,N/A,Unknown,1
+26727,Bachelor,79,0,0,No,Private,High,88.92,22.9,never smoked,1
+66638,Bachelor,68,1,0,No,Freelance,Normal,79.79,29.7,never smoked,1
+71796,Bachelor,70,0,1,Yes,Private,High,59.35,32.3,formerly smoked,1
+49130,Secondary School,74,0,0,Yes,Private,Normal,98.55,25.6,Unknown,1
+28291,Bachelor,79,0,1,Yes,Private,Normal,226.98,29.8,never smoked,1
+51169,Secondary School,81,0,0,Yes,Private,Normal,72.81,26.3,never smoked,1
+37726,Bachelor,80,1,0,Yes,Freelance,Normal,68.56,26.2,Unknown,1
+2458,Bachelor,78,0,0,Yes,Private,High,235.63,32.3,never smoked,1
+35512,Bachelor,70,0,0,Yes,Freelance,High,76.34,24.4,formerly smoked,1
+4639,Bachelor,69,0,0,Yes,Officer,Normal,82.81,28,never smoked,1
+63973,Bachelor,77,0,0,Yes,Officer,High,190.32,31.4,never smoked,1
+45277,Bachelor,74,0,0,Yes,Private,High,231.61,34.6,formerly smoked,1
+4712,Bachelor,81,0,1,Yes,Freelance,High,78.7,19.4,Unknown,1
+30456,Bachelor,79,0,0,Yes,Private,High,93.05,24.2,never smoked,1
+56546,Secondary School,79,0,1,Yes,Private,High,129.98,22.6,formerly smoked,1
+48405,Secondary School,80,0,1,Yes,Private,Normal,68.53,24.2,smokes,1
+36706,Bachelor,76,0,0,Yes,Freelance,Normal,106.41,N/A,formerly smoked,1
+71639,Bachelor,68,0,0,No,Officer,Normal,82.1,27.1,Unknown,1
+53401,Secondary School,71,1,1,No,Officer,High,216.94,30.9,never smoked,1
+7547,Secondary School,74,0,0,Yes,Private,Normal,72.96,31.3,smokes,1
+5563,Bachelor,77,0,0,Yes,Private,Normal,105.22,31,never smoked,1
+13491,Secondary School,80,0,0,Yes,Private,High,259.63,31.7,smokes,1
+14164,Bachelor,72,0,0,Yes,Private,Normal,219.91,N/A,Unknown,1
+50522,Bachelor,72,0,0,Yes,Officer,Normal,131.41,28.4,never smoked,1
+3352,Secondary School,78,1,0,Yes,Freelance,Normal,93.13,N/A,formerly smoked,1
+70943,Bachelor,80,0,0,Yes,Private,Normal,73.54,24,Unknown,1
+37132,Secondary School,82,0,0,Yes,Officer,Normal,200.59,29,formerly smoked,1
+48796,Bachelor,75,0,0,Yes,Officer,Normal,62.48,N/A,Unknown,1
+53440,Bachelor,73,1,0,Yes,Private,High,190.14,36.5,never smoked,1
+16817,Bachelor,78,1,0,No,Private,Normal,130.54,20.1,never smoked,1
+69551,Secondary School,69,1,0,No,Private,High,182.99,36.5,never smoked,1
+20387,Bachelor,68,1,0,Yes,Freelance,High,206.09,26.7,never smoked,1
+71279,Bachelor,71,0,0,Yes,Officer,Normal,263.32,38.7,never smoked,1
+55824,Secondary School,76,0,0,Yes,Private,Normal,140.1,29.9,formerly smoked,1
+11762,Bachelor,76,0,0,Yes,Private,Normal,207.28,34.9,Unknown,1
+29281,Secondary School,76,1,0,Yes,Freelance,High,194.37,27,formerly smoked,1
+30683,Bachelor,75,0,0,Yes,Private,High,199.2,26.6,Unknown,1
+20439,Secondary School,82,0,1,Yes,Officer,High,103.68,25,never smoked,1
+8045,Bachelor,74,1,0,Yes,Private,Normal,70.28,21.8,never smoked,1
+37651,Bachelor,69,1,1,No,Freelance,Normal,72.17,36.8,never smoked,1
+17308,Bachelor,72,1,0,Yes,Private,Normal,221.79,30,never smoked,1
+67981,Secondary School,66,0,0,Yes,Private,Normal,151.16,27.5,formerly smoked,1
+62861,Bachelor,78,0,0,Yes,Private,Normal,67.29,24.6,never smoked,1
+58978,Bachelor,70,0,1,Yes,Private,High,239.07,26.1,never smoked,1
+11933,Bachelor,79,0,0,Yes,Private,High,169.67,N/A,Unknown,1
+46703,Secondary School,68,0,1,Yes,Private,Normal,223.83,31.9,formerly smoked,1
+32503,Bachelor,80,0,0,Yes,Freelance,Normal,76.57,34.1,never smoked,1
+12482,Secondary School,68,0,0,Yes,Freelance,Normal,77.82,27.5,smokes,1
+24669,Bachelor,77,0,1,Yes,Private,High,231.56,36.9,never smoked,1
+66258,Bachelor,71,0,0,Yes,Freelance,Normal,195.71,34.1,formerly smoked,1
+34567,Bachelor,81,1,0,Yes,Freelance,High,74.02,25,never smoked,1
+50931,Bachelor,76,0,0,Yes,Private,Normal,57.92,N/A,formerly smoked,1
+16590,Secondary School,71,0,1,Yes,Private,Normal,81.76,N/A,smokes,1
+20426,Bachelor,78,1,0,No,Private,Normal,203.87,45.7,never smoked,1
+3512,Bachelor,70,1,0,Yes,Freelance,Normal,89.13,34.2,formerly smoked,1
+42899,Secondary School,78,0,0,Yes,Freelance,Normal,133.19,23.6,formerly smoked,1
+43364,Secondary School,79,1,0,Yes,Private,High,75.02,N/A,never smoked,1
+44993,Bachelor,79,1,0,No,Officer,Normal,98.02,22.3,formerly smoked,1
+210,Secondary School,81,0,0,Yes,Freelance,High,91.54,31.4,never smoked,1
+60739,Bachelor,79,1,1,No,Freelance,High,60.94,N/A,never smoked,1
+2182,Bachelor,80,1,0,Yes,Freelance,High,91.02,32.9,formerly smoked,1
+40899,Bachelor,78,0,0,Yes,Freelance,High,60.67,N/A,formerly smoked,1
+14431,Secondary School,72,1,0,Yes,Freelance,High,185.49,37.1,never smoked,1
+62466,Bachelor,80,0,0,Yes,Private,Normal,64.44,45,never smoked,1
+36841,Secondary School,78,1,0,Yes,Freelance,High,56.11,25.5,formerly smoked,1
+33486,Bachelor,80,0,0,Yes,Officer,Normal,110.66,N/A,Unknown,1
+65105,Secondary School,81,0,0,Yes,Private,Normal,213.22,26.1,Unknown,1
+8003,Bachelor,77,0,0,No,Private,Normal,81.32,N/A,Unknown,1
+67895,Bachelor,82,1,1,Yes,Officer,Normal,215.94,27.9,formerly smoked,1
+30184,Secondary School,82,0,0,Yes,Private,High,86.62,29.5,formerly smoked,1
+69112,Secondary School,68,1,1,Yes,Private,High,271.74,31.1,smokes,1
+23410,Bachelor,72,0,0,Yes,Private,High,97.92,26.9,smokes,1
+58267,Secondary School,70,1,0,Yes,Private,High,242.52,45.5,formerly smoked,1
+35684,Secondary School,69,0,0,Yes,Private,High,93.81,28.5,Unknown,1
+18937,Secondary School,79,0,0,Yes,Private,High,114.77,N/A,formerly smoked,1
+491,Bachelor,74,0,0,Yes,Freelance,Normal,74.96,26.6,never smoked,1
+54695,Secondary School,74,0,0,Yes,Private,Normal,167.13,N/A,Unknown,1
+68627,Secondary School,80,1,1,Yes,Private,Normal,175.29,31.5,formerly smoked,1
+8580,Bachelor,77,0,0,Yes,Freelance,High,90,32,never smoked,1
+28484,Bachelor,78,0,0,Yes,Freelance,High,109.47,30.8,never smoked,1
+51314,Bachelor,78,0,0,Yes,Private,Normal,106.74,33,formerly smoked,1
+37060,Bachelor,81,0,0,Yes,Private,High,80.13,23.4,never smoked,1
+35578,Secondary School,78,0,0,No,Freelance,Normal,90.19,26.9,never smoked,1
+54921,Secondary School,78,1,0,Yes,Freelance,High,134.8,33.6,Unknown,1
+2548,Bachelor,81,0,0,Yes,Freelance,Normal,95.84,21.5,never smoked,1
+68025,Bachelor,79,0,1,No,Private,Normal,205.33,31,smokes,1
+2390,Secondary School,78,0,0,Yes,Freelance,Normal,116.1,27.1,never smoked,1
+25904,Bachelor,76,1,1,Yes,Freelance,Normal,199.86,N/A,smokes,1
+31421,Secondary School,73,0,1,Yes,Officer,High,219.73,28.6,never smoked,1
+20463,Secondary School,81,1,1,Yes,Private,Normal,250.89,28.1,smokes,1
+68023,Secondary School,79,0,0,Yes,Private,High,72.73,28.4,never smoked,1
+54724,Bachelor,81,0,0,No,Officer,Normal,70.3,25.8,smokes,1
+32729,Bachelor,81,0,0,Yes,Private,High,184.4,27.5,never smoked,1
+39105,Secondary School,74,0,0,Yes,Freelance,High,60.98,N/A,never smoked,1
+69959,Bachelor,80,1,0,No,Private,Normal,66.03,35.4,never smoked,1
+10552,Bachelor,81,0,0,Yes,Freelance,High,81.95,16.9,never smoked,1
+12917,Bachelor,79,0,0,Yes,Private,Normal,97.73,21.5,smokes,1
+68356,Bachelor,73,0,0,Yes,Freelance,Normal,70.94,34.4,never smoked,1
+23368,Bachelor,77,1,0,Yes,Freelance,Normal,199.84,28,formerly smoked,1
+25974,Secondary School,78,0,0,Yes,Freelance,Normal,218.46,26.8,Unknown,1
+1210,Bachelor,68,0,0,Yes,Private,High,211.06,39.3,Unknown,1
+36857,Secondary School,77,0,0,Yes,Freelance,High,162.14,32.6,formerly smoked,1
+10548,Secondary School,66,0,0,Yes,Private,High,76.46,21.2,formerly smoked,1
+45535,Secondary School,68,0,0,Yes,Private,High,233.94,42.4,never smoked,1
+40460,Bachelor,68,1,1,Yes,Private,Normal,247.51,40.5,formerly smoked,1
+27153,Bachelor,75,0,0,Yes,Freelance,High,78.8,29.3,formerly smoked,1
+34060,Secondary School,71,1,0,Yes,Freelance,High,87.8,N/A,Unknown,1
+43424,Bachelor,78,0,0,Yes,Private,High,78.81,19.6,Unknown,1
+56543,Bachelor,70,0,0,Yes,Private,High,69.04,35.9,formerly smoked,0
+41413,Bachelor,75,0,1,Yes,Freelance,High,243.53,27,never smoked,0
+28674,Bachelor,74,1,0,Yes,Freelance,Normal,205.84,54.6,never smoked,0
+10460,Bachelor,79,0,0,Yes,Officer,Normal,77.08,35,Unknown,0
+64908,Secondary School,79,0,1,Yes,Private,Normal,57.08,22,formerly smoked,0
+17986,Bachelor,79,0,1,Yes,Freelance,Normal,67.84,25.2,smokes,0
+4057,Secondary School,71,0,0,Yes,Private,Normal,198.21,27.3,formerly smoked,0
+66767,Bachelor,67,0,0,Yes,Officer,High,94.61,28.4,smokes,0
+11577,Bachelor,70,0,0,Yes,Freelance,High,214.45,31.2,never smoked,0
+20980,Secondary School,67,0,0,Yes,Private,Normal,190.7,36,formerly smoked,0
+58261,Bachelor,66,0,0,Yes,Private,High,141.24,28.5,never smoked,0
+28526,Secondary School,69,0,0,Yes,Freelance,High,203.04,33.6,never smoked,0
+43454,Bachelor,78,0,0,No,Freelance,Normal,137.74,34.9,formerly smoked,0
+18518,Secondary School,66,0,0,Yes,Private,High,242.3,35.3,smokes,0
+6319,Bachelor,79,0,0,Yes,Private,Normal,97.93,31.2,Unknown,0
+11120,Bachelor,78,1,0,Yes,Private,Normal,218.46,34.3,never smoked,0
+4480,Secondary School,76,0,0,Yes,Private,High,234.58,34.3,formerly smoked,0
+59368,Bachelor,78,0,0,Yes,Private,Normal,243.5,26.1,never smoked,0
+65836,Bachelor,78,1,0,Yes,Private,Normal,182.2,30.5,formerly smoked,0
+56357,Bachelor,82,0,1,No,Private,Normal,215.6,24.9,never smoked,0
+61837,Bachelor,66,0,0,Yes,Freelance,Normal,58.95,24.6,never smoked,0
+49713,Secondary School,68,0,0,Yes,Private,High,116.23,26.1,never smoked,0
+28333,Bachelor,79,1,1,Yes,Freelance,Normal,200.28,30,formerly smoked,0
+49421,Bachelor,66,1,0,Yes,Private,High,205.23,39.5,never smoked,0
+54312,Bachelor,76,1,0,Yes,Freelance,Normal,209.58,N/A,never smoked,0
+49916,Secondary School,76,0,0,Yes,Private,High,110.99,29.8,formerly smoked,0
+69037,Bachelor,72,0,0,Yes,Private,High,210.78,32.3,formerly smoked,0
+63732,Secondary School,70,1,0,Yes,Freelance,Normal,251.6,27.1,never smoked,0
+37090,Bachelor,70,0,0,Yes,Private,High,68.34,22.8,formerly smoked,0
+11091,Bachelor,75,0,0,Yes,Freelance,High,75.39,37.8,never smoked,0
+37031,Bachelor,78,0,1,Yes,Officer,Normal,70.21,24.8,never smoked,0
+48298,Bachelor,80,0,0,Yes,Private,High,70.31,23.2,Unknown,0
+20351,Secondary School,75,0,0,Yes,Officer,Normal,94.29,35.2,Unknown,0
+20546,Bachelor,68,0,0,Yes,Private,Normal,79.58,22.2,never smoked,0
+12985,Bachelor,69,0,0,Yes,Freelance,High,225.47,36.9,never smoked,0
+8233,Secondary School,72,0,1,Yes,Freelance,High,97.53,29.4,smokes,0
+56735,Bachelor,78,0,0,Yes,Freelance,High,115.43,27.8,never smoked,0
+71585,Bachelor,66,0,0,Yes,Officer,Normal,87.24,22.5,formerly smoked,0
+32361,Bachelor,78,0,1,Yes,Freelance,Normal,73.32,26,Unknown,0
+12982,Secondary School,74,0,0,Yes,Freelance,Normal,186.17,44.3,Unknown,0
+34299,Bachelor,71,0,0,Yes,Private,Normal,93.28,34.7,never smoked,0
+7696,Bachelor,66,0,0,No,Private,Normal,93.73,23.9,smokes,0
+69673,Bachelor,76,0,0,Yes,Officer,Normal,96.29,25.4,smokes,0
+34511,Bachelor,71,0,0,Yes,Private,High,100.61,19.2,Unknown,0
+33123,Bachelor,68,0,0,Yes,Freelance,High,104.38,40.8,formerly smoked,0
+17242,Secondary School,67,0,0,Yes,Freelance,Normal,68.52,26.2,never smoked,0
+9729,Secondary School,70,0,0,Yes,Private,Normal,102.64,28.3,never smoked,0
+6855,Secondary School,72,1,0,Yes,Freelance,Normal,114.01,31.8,formerly smoked,0
+15791,Secondary School,77,0,0,Yes,Private,Normal,193.83,26.5,never smoked,0
+67780,Bachelor,76,0,0,Yes,Private,Normal,183.34,39.5,formerly smoked,0
+59829,Secondary School,67,0,1,Yes,Private,Normal,144.1,27.6,never smoked,0
+47811,Bachelor,72,0,0,Yes,Freelance,Normal,239.82,35.8,never smoked,0
+55138,Bachelor,81,0,0,No,Freelance,Normal,71.91,19.2,Unknown,0
+25483,Secondary School,72,0,0,Yes,Private,High,215.64,26.7,formerly smoked,0
+22853,Secondary School,82,0,0,No,Freelance,High,106.43,27,smokes,0
+39659,Bachelor,73,0,0,Yes,Officer,Normal,219.53,40.9,never smoked,0
+42553,Bachelor,80,0,0,Yes,Private,High,148.91,28.3,never smoked,0
+46891,Bachelor,74,0,0,Yes,Private,High,68.34,39.3,Unknown,0
+44300,Bachelor,66,0,0,Yes,Officer,Normal,92.04,23.1,never smoked,0
+3579,Bachelor,66,0,1,Yes,Private,Normal,94.62,29.7,formerly smoked,0
+33528,Bachelor,80,0,1,Yes,Freelance,Normal,79.09,22.8,never smoked,0
+62233,Bachelor,70,0,0,No,Freelance,Normal,98.42,36.4,formerly smoked,0
+12662,Secondary School,74,1,0,Yes,Freelance,Normal,112.54,27.7,formerly smoked,0
+72823,Bachelor,79,0,0,Yes,Private,Normal,70.35,23,formerly smoked,0
+30567,Secondary School,71,1,0,Yes,Private,Normal,94.65,25.3,formerly smoked,0
+50491,Secondary School,78,0,0,Yes,Freelance,Normal,55.32,29.6,smokes,0
+71010,Bachelor,80,0,0,No,Freelance,Normal,57.57,22.8,never smoked,0
+57772,Bachelor,75,0,0,Yes,Officer,High,56.23,25.3,never smoked,0
+16615,Secondary School,76,1,0,Yes,Freelance,High,69.61,35.3,never smoked,0
+53010,Secondary School,82,0,0,Yes,Freelance,High,56.75,21,never smoked,0
+38184,Bachelor,79,1,0,Yes,Private,High,99.47,28.4,never smoked,0
+27796,Bachelor,66,0,0,Yes,Private,Normal,102.07,16.7,smokes,0
+9752,Bachelor,66,0,0,Yes,Officer,High,200.49,34.6,smokes,0
+40866,Bachelor,79,0,0,Yes,Freelance,High,131.85,25.9,Unknown,0
+63561,Secondary School,78,0,0,Yes,Private,Normal,56.18,27.1,never smoked,0
+51422,Bachelor,70,1,0,Yes,Private,High,113.64,25.6,formerly smoked,0
+18430,Bachelor,81,0,0,Yes,Freelance,Normal,90.9,31.2,formerly smoked,0
+60983,Secondary School,70,0,0,Yes,Private,Normal,64.41,29.4,smokes,0
+52808,Secondary School,73,0,0,Yes,Private,Normal,84.11,27.9,never smoked,0
+53336,Bachelor,79,0,0,Yes,Officer,Normal,74.22,29.7,Unknown,0
+55592,Secondary School,71,0,0,Yes,Private,High,109.73,28.9,never smoked,0
+16685,Bachelor,71,1,0,Yes,Private,Normal,194.62,31.6,never smoked,0
+30550,Bachelor,78,0,0,No,Private,Normal,103.86,30.6,Unknown,0
+62382,Secondary School,82,0,0,Yes,Private,Normal,105.77,29.5,Unknown,0
+49624,Secondary School,69,0,0,Yes,Private,Normal,98.92,23.9,formerly smoked,0
+17813,Bachelor,69,0,1,Yes,Private,High,254.6,21.7,Unknown,0
+51125,Bachelor,66,0,0,Yes,Private,Normal,89.7,34.9,smokes,0
+29077,Bachelor,77,0,0,Yes,Private,High,95.1,35,never smoked,0
+4970,Secondary School,79,0,0,Yes,Freelance,High,112.64,28.5,formerly smoked,0
+25458,Bachelor,70,1,0,Yes,Officer,High,88.66,36.7,formerly smoked,0
+53695,Secondary School,70,0,0,Yes,Officer,Normal,81.59,27.2,never smoked,0
+12270,Secondary School,71,0,0,Yes,Officer,High,186.45,26.7,never smoked,0
+28681,Bachelor,70,1,0,Yes,Freelance,Normal,99.6,34.3,formerly smoked,0
+11709,Secondary School,71,0,0,No,Private,Normal,95.08,31.5,never smoked,0
+63058,Bachelor,77,0,1,Yes,Private,High,183.1,N/A,never smoked,0
+70852,Secondary School,80,0,0,Yes,Private,High,56.99,26.7,never smoked,0
+4808,Bachelor,71,0,0,Yes,Freelance,Normal,91.35,N/A,formerly smoked,0
+52688,Secondary School,74,1,0,Yes,Private,High,57.51,31.7,smokes,0
+72310,Secondary School,80,1,1,Yes,Freelance,Normal,84.31,30.3,smokes,0
+25627,Secondary School,81,1,0,Yes,Freelance,Normal,231.19,31.6,formerly smoked,0
+41148,Secondary School,71,0,1,Yes,Private,Normal,70.71,30.1,never smoked,0
+71896,Bachelor,68,0,0,Yes,Private,High,82.06,35.2,formerly smoked,0
+72020,Secondary School,71,0,1,Yes,Freelance,High,207.32,32.4,smokes,0
+36618,Secondary School,75,0,1,Yes,Freelance,Normal,207.64,30.5,formerly smoked,0
+37290,Secondary School,80,0,0,Yes,Freelance,High,236.84,26.8,never smoked,0
+19681,Bachelor,74,0,0,Yes,Freelance,Normal,99.21,22.1,never smoked,0
+28261,Secondary School,79,0,1,Yes,Freelance,Normal,106.68,30.8,never smoked,0
+44105,Bachelor,69,1,0,Yes,Freelance,Normal,61.81,37.1,Unknown,0
+59336,Secondary School,66,1,0,Yes,Private,High,74.9,32.1,never smoked,0
+10538,Secondary School,75,1,1,Yes,Freelance,Normal,195.03,28.7,formerly smoked,0
+9648,Bachelor,71,0,1,Yes,Private,Normal,170.95,35.2,never smoked,0
+42786,Secondary School,82,0,1,Yes,Freelance,High,72.93,27.1,formerly smoked,0
+60663,Secondary School,70,1,0,Yes,Private,High,74.04,29.1,never smoked,0
+69091,Bachelor,80,0,1,Yes,Private,High,100.8,29.4,never smoked,0
+8521,Secondary School,71,0,0,Yes,Private,High,227.91,31.6,formerly smoked,0
+45824,Bachelor,77,1,0,Yes,Freelance,Normal,102.01,29.5,Unknown,0
+33142,Secondary School,79,0,0,Yes,Freelance,High,116.67,33.5,never smoked,0
+38303,Bachelor,66,0,0,Yes,Freelance,Normal,142.12,28.3,never smoked,0
+23031,Secondary School,82,0,0,Yes,Freelance,High,85.29,27,never smoked,0
+9641,Secondary School,75,0,0,Yes,Private,Normal,105.63,28.2,smokes,0
+12097,Bachelor,72,0,0,Yes,Private,Normal,95.2,35,never smoked,0
+39120,Bachelor,82,0,0,No,Freelance,Normal,82.21,26,never smoked,0
+66752,Bachelor,79,0,0,Yes,Officer,Normal,93.89,30.4,never smoked,0
+4842,Bachelor,76,0,0,No,Freelance,Normal,77.52,40.9,formerly smoked,0
+61973,Bachelor,80,1,1,Yes,Private,High,115.52,34.4,Unknown,0
+72642,Secondary School,67,0,0,Yes,Officer,Normal,67.79,26,formerly smoked,0
+55862,Secondary School,67,1,1,Yes,Private,High,254.63,31,never smoked,0
+24437,Bachelor,82,0,0,Yes,Private,High,96.63,26.5,Unknown,0
+42550,Bachelor,81,0,0,Yes,Freelance,High,246.34,21.1,never smoked,0
+65429,Bachelor,66,0,0,Yes,Officer,High,93.34,27.7,never smoked,0
+18684,Bachelor,73,0,0,Yes,Freelance,High,89.45,30.3,formerly smoked,0
+67603,Secondary School,70,0,0,Yes,Freelance,Normal,223.68,34.3,formerly smoked,0
+27323,Bachelor,67,0,0,Yes,Freelance,Normal,68.61,31.9,never smoked,0
+53817,Bachelor,71,1,0,Yes,Freelance,High,66.12,N/A,never smoked,0
+38678,Bachelor,66,0,0,Yes,Freelance,High,251.46,35.2,smokes,0
+9415,Bachelor,69,0,0,Yes,Freelance,Normal,80.85,29.3,formerly smoked,0
+62756,Bachelor,69,0,0,Yes,Freelance,Normal,113.1,22.7,never smoked,0
+52550,Bachelor,79,0,0,Yes,Officer,Normal,83.56,28.7,smokes,0
+13602,Secondary School,73,1,0,Yes,Freelance,High,102.06,N/A,Unknown,0
+2750,Secondary School,73,1,1,Yes,Freelance,High,230.68,37.7,Unknown,0
+19778,Secondary School,80,0,0,No,Freelance,High,204.17,41.3,formerly smoked,0
+69177,Bachelor,79,0,0,Yes,Private,High,90.77,22.5,never smoked,0
+44764,Bachelor,78,1,0,Yes,Freelance,High,59.2,29.1,Unknown,0
+72268,Secondary School,68,0,0,Yes,Freelance,Normal,61.36,26.5,formerly smoked,0
+6419,Bachelor,79,0,0,No,Private,High,239.52,25.5,never smoked,0
+48073,Secondary School,67,0,0,Yes,Officer,High,93.71,31.2,formerly smoked,0
+30328,Bachelor,69,1,0,Yes,Officer,High,103.44,43.1,formerly smoked,0
+739,Bachelor,73,0,0,Yes,Freelance,High,79.69,N/A,formerly smoked,0
+32884,Bachelor,80,1,0,Yes,Private,Normal,210.96,31.8,never smoked,0
+70031,Bachelor,71,1,0,Yes,Private,High,195.25,33.3,never smoked,0
+48781,Secondary School,67,0,0,Yes,Private,High,113.34,26.3,formerly smoked,0
+16114,Secondary School,66,0,0,No,Private,Normal,108.03,27.2,never smoked,0
+35293,Bachelor,80,0,0,Yes,Freelance,High,104.07,19.3,formerly smoked,0
+12618,Secondary School,79,0,1,Yes,Freelance,Normal,96.79,24.7,Unknown,0
+53967,Bachelor,80,0,0,Yes,Freelance,High,72.61,27.6,never smoked,0
+59157,Secondary School,73,1,0,Yes,Private,Normal,88.34,27.5,never smoked,0
+321,Bachelor,79,0,0,No,Freelance,High,71.98,36.4,never smoked,0
+37327,Bachelor,71,0,0,Yes,Private,Normal,214.77,N/A,Unknown,0
+38350,Bachelor,81,0,0,Yes,Freelance,Normal,63.65,23,Unknown,0
+22001,Secondary School,80,0,1,Yes,Officer,High,181.23,32.2,formerly smoked,0
+16260,Secondary School,73,0,1,Yes,Freelance,High,189.45,32.2,never smoked,0
+132,Bachelor,80,0,0,Yes,Officer,Normal,84.86,N/A,Unknown,0
+8951,Bachelor,77,1,0,Yes,Freelance,Normal,71.7,32.8,never smoked,0
+28904,Bachelor,75,0,0,Yes,Freelance,High,74.79,32.4,never smoked,0
+54526,Secondary School,76,1,0,Yes,Freelance,High,197.58,34.8,formerly smoked,0
+15757,Secondary School,71,0,0,Yes,Private,Normal,85.33,27.7,never smoked,0
+60816,Bachelor,82,1,0,Yes,Private,Normal,62.46,20.3,formerly smoked,0
+40124,Secondary School,72,0,0,Yes,Freelance,High,72.09,N/A,smokes,0
+28716,Bachelor,74,0,0,Yes,Freelance,High,94.67,19.7,Unknown,0
+47159,Secondary School,68,0,0,Yes,Private,Normal,155.17,35.5,never smoked,0
+21042,Bachelor,72,0,0,Yes,Freelance,High,103.25,26.9,formerly smoked,0
+49646,Secondary School,72,0,1,Yes,Freelance,High,113.63,26.5,Unknown,0
+42703,Secondary School,74,0,0,Yes,Freelance,Normal,61.78,25.8,Unknown,0
+33983,Secondary School,75,0,0,Yes,Officer,High,206.33,26.8,never smoked,0
+47622,Secondary School,78,0,1,Yes,Freelance,Normal,228.7,34,Unknown,0
+32459,Bachelor,76,0,0,Yes,Officer,High,84.21,24.4,never smoked,0
+71318,Secondary School,67,0,0,Yes,Officer,High,244.28,29.4,formerly smoked,0
+51124,Secondary School,81,0,0,Yes,Freelance,Normal,61.1,27.6,smokes,0
+4692,Bachelor,74,0,0,Yes,Officer,Normal,251.99,25.5,never smoked,0
+41271,Secondary School,68,1,0,Yes,Officer,Normal,222.29,30.1,never smoked,0
+43059,Bachelor,71,0,0,Yes,Freelance,High,151.3,26.3,never smoked,0
+61512,Bachelor,71,0,0,Yes,Freelance,Normal,144.23,22.1,formerly smoked,0
+64132,Secondary School,67,0,1,Yes,Freelance,High,95.88,31.9,Unknown,0
+72474,Bachelor,82,0,0,Yes,Officer,High,58.3,20.4,never smoked,0
+66818,Secondary School,75,0,0,Yes,Officer,Normal,98.91,24.4,never smoked,0
+17078,Secondary School,71,0,0,Yes,Private,Normal,108.43,32.8,smokes,0
+23836,Secondary School,78,0,0,Yes,Private,Normal,90.43,34.4,formerly smoked,0
+25559,Bachelor,66,0,1,Yes,Officer,High,76.11,37,Unknown,0
+34496,Bachelor,82,0,0,Yes,Private,Normal,253.16,47.5,Unknown,0
+49709,Bachelor,77,1,0,Yes,Freelance,High,238.53,30.6,never smoked,0
+29095,Secondary School,71,1,0,Yes,Freelance,High,93.6,N/A,never smoked,0
+54858,Secondary School,66,0,0,Yes,Officer,High,218.54,38.9,smokes,0
+54264,Bachelor,81,1,0,Yes,Private,Normal,58.71,34.5,never smoked,0
+18141,Secondary School,76,0,1,Yes,Freelance,High,101.43,29.1,Unknown,0
+36620,Bachelor,74,0,0,Yes,Private,High,66.32,34.4,formerly smoked,0
+21720,Bachelor,77,0,0,Yes,Private,High,93.48,25.2,formerly smoked,0
+24218,Bachelor,78,0,0,No,Private,High,87.7,29.6,never smoked,0
+34664,Secondary School,67,0,0,Yes,Private,Normal,110.68,25.1,formerly smoked,0
+15166,Bachelor,75,1,0,Yes,Private,Normal,183,20.8,Unknown,0
+10603,Bachelor,68,0,0,Yes,Private,High,81.38,23.1,Unknown,0
+14832,Bachelor,81,0,1,Yes,Private,Normal,84.93,31.8,Unknown,0
+49789,Bachelor,73,0,0,No,Officer,Normal,62.99,25.4,formerly smoked,0
+54553,Secondary School,70,1,0,Yes,Private,Normal,65.98,33,formerly smoked,0
+12915,Bachelor,66,0,0,Yes,Officer,High,85.52,30,never smoked,0
+5799,Secondary School,69,0,1,Yes,Private,High,216.9,29.8,formerly smoked,0
+3154,Bachelor,81,0,0,Yes,Freelance,High,114.88,18.3,formerly smoked,0
+22623,Secondary School,77,0,0,Yes,Private,Normal,71.44,24.1,smokes,0
+47037,Bachelor,67,0,0,Yes,Private,Normal,102.71,39.9,formerly smoked,0
+17752,Secondary School,76,0,1,Yes,Private,Normal,79.05,N/A,Unknown,0
+51149,Secondary School,70,0,0,Yes,Private,Normal,66.85,29.3,Unknown,0
+47181,Bachelor,68,0,0,Yes,Private,Normal,103.46,35.9,never smoked,0
+14481,Bachelor,79,0,0,Yes,Freelance,Normal,80.57,23.8,never smoked,0
+52419,Secondary School,66,0,0,Yes,Private,Normal,190.4,N/A,formerly smoked,0
+70344,Secondary School,82,0,0,Yes,Private,Normal,144.2,35.4,smokes,0
+8470,Bachelor,71,0,0,Yes,Private,Normal,71.38,19.7,never smoked,0
+51660,Bachelor,69,0,0,Yes,Freelance,High,63.19,32.2,never smoked,0
+27135,Secondary School,69,1,0,Yes,Private,High,107.11,N/A,smokes,0
+54353,Bachelor,78,1,1,Yes,Private,Normal,227.16,41.7,never smoked,0
+71016,Bachelor,68,0,0,Yes,Private,High,58.69,26.2,formerly smoked,0
+7222,Bachelor,73,0,0,Yes,Freelance,Normal,88.52,20.8,formerly smoked,0
+29179,Bachelor,76,1,1,Yes,Private,High,102.08,31,smokes,0
+5511,Secondary School,66,0,0,Yes,Freelance,Normal,71.38,N/A,formerly smoked,0
+32452,Bachelor,82,0,1,Yes,Freelance,High,211.88,28.7,never smoked,0
+25138,Bachelor,78,1,0,Yes,Private,High,91.63,33.5,smokes,0
+35333,Secondary School,76,1,0,Yes,Private,High,225.6,29,never smoked,0
+15120,Bachelor,81,1,0,Yes,Freelance,High,210.23,30.7,never smoked,0
+8644,Bachelor,78,0,1,Yes,Private,High,81.99,27.3,formerly smoked,0
+54579,Bachelor,75,0,0,Yes,Freelance,Normal,87.69,27.5,formerly smoked,0
+11024,Bachelor,76,0,0,Yes,Private,High,97.9,31.3,formerly smoked,0
+38242,Bachelor,78,0,1,Yes,Freelance,High,88.9,34.3,Unknown,0
+42465,Bachelor,78,1,0,Yes,Private,High,58.66,16.4,never smoked,0
+25883,Bachelor,82,1,0,Yes,Freelance,Normal,77.32,24.8,Unknown,0
+35117,Bachelor,78,0,0,Yes,Freelance,High,84.49,26.4,never smoked,0
+42229,Bachelor,68,0,0,Yes,Freelance,High,93.61,24.9,never smoked,0
+59250,Bachelor,78,0,0,Yes,Officer,Normal,58.88,35.8,Unknown,0
+49014,Bachelor,76,0,0,Yes,Officer,Normal,204.05,23.5,never smoked,0
+40878,Secondary School,71,0,0,Yes,Freelance,High,56.43,29.2,formerly smoked,0
+33144,Bachelor,68,0,0,No,Officer,Normal,121.66,29.1,smokes,0
+31806,Bachelor,70,0,0,Yes,Private,Normal,91.25,36,Unknown,0
+13503,Secondary School,81,0,0,Yes,Freelance,Normal,83.52,25,never smoked,0
+47208,Bachelor,70,0,0,Yes,Freelance,High,62.67,27.7,never smoked,0
+30285,Secondary School,72,0,1,Yes,Freelance,High,74.36,27.3,never smoked,0
+48775,Bachelor,78,1,0,Yes,Freelance,High,201.07,21.8,Unknown,0
+15418,Bachelor,80,0,0,Yes,Freelance,High,90.43,34.2,never smoked,0
+30850,Secondary School,72,0,0,Yes,Private,Normal,81.05,30.3,Unknown,0
+60126,Bachelor,79,0,0,Yes,Private,Normal,68.37,24.2,smokes,0
+16129,Bachelor,81,0,0,Yes,Freelance,Normal,93.13,26.1,Unknown,0
+50671,Secondary School,78,1,1,Yes,Freelance,High,199.88,29.6,formerly smoked,0
+67890,Secondary School,77,0,1,Yes,Private,Normal,102.96,20.9,formerly smoked,0
+24885,Secondary School,79,0,1,Yes,Freelance,Normal,88.83,40.3,smokes,0
+44777,Secondary School,67,0,0,Yes,Private,High,208.78,26.7,Unknown,0
+62456,Bachelor,72,0,0,Yes,Freelance,Normal,226.88,36.7,formerly smoked,0
+66677,Secondary School,78,0,0,Yes,Private,High,80.09,21.8,never smoked,0
+63401,Bachelor,71,0,0,Yes,Freelance,High,249.29,30.3,smokes,0
+42830,Secondary School,80,0,1,Yes,Private,Normal,120.09,30.7,never smoked,0
+5157,Secondary School,79,1,0,Yes,Freelance,Normal,83.07,26.5,smokes,0
+26084,Bachelor,77,1,0,Yes,Freelance,Normal,109.51,N/A,never smoked,0
+65419,Secondary School,73,0,1,Yes,Officer,High,70.23,28.1,never smoked,0
+14406,Bachelor,80,0,1,Yes,Freelance,High,103.06,28.8,never smoked,0
+49672,Bachelor,66,0,0,Yes,Officer,High,152.02,44.2,formerly smoked,0
+394,Secondary School,78,1,0,Yes,Freelance,High,75.19,27.6,never smoked,0
+18680,Secondary School,69,0,0,Yes,Freelance,Normal,78.48,25.8,formerly smoked,0
+31857,Bachelor,77,0,0,Yes,Freelance,High,104.23,23.8,smokes,0
+32974,Secondary School,67,0,0,Yes,Officer,Normal,66.67,35,smokes,0
+5863,Bachelor,71,0,0,Yes,Private,Normal,240.81,27.4,never smoked,0
+58086,Secondary School,67,0,0,Yes,Private,Normal,58.51,30.4,formerly smoked,0
+53957,Secondary School,71,0,0,Yes,Freelance,Normal,96.04,45.1,formerly smoked,0
+43872,Bachelor,78,0,0,Yes,Private,High,56.34,27.5,Unknown,0
+4591,Bachelor,82,0,0,Yes,Freelance,High,117.75,29.8,never smoked,0
+21826,Secondary School,73,0,0,Yes,Freelance,High,101.25,29.4,formerly smoked,0
+28651,Secondary School,66,0,0,Yes,Private,Normal,247.48,33.5,smokes,0
+58359,Bachelor,71,1,0,Yes,Private,Normal,129.97,44.2,smokes,0
+29694,Bachelor,68,0,0,Yes,Private,High,95.36,21.5,smokes,0
+20316,Bachelor,75,0,0,Yes,Officer,High,219.39,33.4,smokes,0
+57549,Bachelor,76,0,0,Yes,Freelance,Normal,110.07,31.8,never smoked,0
+24289,Secondary School,82,0,0,Yes,Private,Normal,89.83,24.7,smokes,0
+6206,Bachelor,67,0,0,Yes,Freelance,High,90.35,28.1,Unknown,0
+3045,Secondary School,68,1,0,Yes,Private,Normal,96.06,37.6,never smoked,0
+1077,Secondary School,77,0,1,Yes,Officer,High,106.03,N/A,Unknown,0
+17466,Secondary School,73,0,0,No,Officer,High,79.59,31.4,smokes,0
+9026,Bachelor,78,1,0,Yes,Freelance,Normal,191.33,24.5,never smoked,0
+28258,Bachelor,80,0,0,Yes,Freelance,Normal,75.06,29.7,Unknown,0
+22269,Bachelor,69,1,0,Yes,Officer,Normal,112.2,N/A,never smoked,0
+58599,Bachelor,67,0,0,Yes,Private,High,62.66,28,formerly smoked,0
+13620,Bachelor,73,0,0,Yes,Freelance,Normal,100.49,23.7,smokes,0
+1505,Secondary School,71,0,1,Yes,Freelance,High,101.13,35.9,formerly smoked,0
+60258,Bachelor,80,0,1,Yes,Freelance,High,98.39,22.2,smokes,0
+43903,Secondary School,79,0,0,Yes,Freelance,High,94.92,31.9,Unknown,0
+15579,Secondary School,72,0,0,Yes,Freelance,High,99.73,36.7,formerly smoked,0
+50402,Bachelor,79,0,0,Yes,Private,Normal,207.95,26,formerly smoked,0
+16812,Bachelor,82,0,1,Yes,Freelance,High,229.58,23.7,Unknown,0
+63912,Bachelor,77,0,0,Yes,Officer,High,167.59,34.3,formerly smoked,0
+22136,Secondary School,78,1,1,No,Freelance,Normal,92.9,30.4,smokes,0
+12336,Bachelor,73,0,0,Yes,Freelance,Normal,87.56,24.1,never smoked,0
+68725,Bachelor,80,0,0,Yes,Private,Normal,79.57,26.9,never smoked,0
+42225,Bachelor,80,0,0,Yes,Freelance,Normal,64.15,40.5,never smoked,0
+7411,Secondary School,82,0,0,Yes,Private,Normal,214.42,33.9,formerly smoked,0
+44591,Secondary School,79,0,0,Yes,Private,Normal,216.4,30.3,never smoked,0
+20393,Bachelor,67,1,0,Yes,Private,Normal,97.06,30.9,never smoked,0
+44962,Secondary School,71,0,0,Yes,Officer,Normal,56.12,24.7,Unknown,0
+7892,Secondary School,78,0,0,Yes,Private,Normal,74.7,28.8,formerly smoked,0
+11744,Secondary School,77,0,0,Yes,Freelance,Normal,83.06,27,Unknown,0
+12279,Secondary School,74,0,0,Yes,Private,Normal,227.94,26,Unknown,0
+44325,Secondary School,78,0,0,Yes,Freelance,High,126.39,21.3,smokes,0
+7658,Secondary School,66,0,0,Yes,Officer,High,203.44,30.5,formerly smoked,0
+35997,Secondary School,78,0,1,Yes,Freelance,Normal,243.73,N/A,smokes,0
+46653,Bachelor,81,1,1,Yes,Private,High,59.28,28.1,never smoked,0
+61676,Secondary School,77,0,0,Yes,Freelance,Normal,68.38,25.1,Unknown,0
+56228,Secondary School,76,0,1,Yes,Freelance,Normal,67.03,N/A,never smoked,0
+11394,Secondary School,73,0,1,Yes,Private,High,82.15,31.6,formerly smoked,0
+70845,Secondary School,73,0,1,Yes,Private,High,62.44,25.2,smokes,0
+30953,Secondary School,75,1,1,Yes,Private,High,221.43,32.5,Unknown,0
+47861,Secondary School,81,0,0,Yes,Private,Normal,165.47,28.1,Unknown,0
+52593,Secondary School,78,0,1,Yes,Private,Normal,145.03,26.8,formerly smoked,0
+22056,Bachelor,71,1,0,Yes,Private,Normal,105.55,N/A,smokes,0
+20112,Secondary School,79,0,1,Yes,Private,Normal,213.38,N/A,Unknown,0
+19769,Bachelor,67,0,0,Yes,Freelance,High,80.18,22.9,formerly smoked,0
+61252,Secondary School,79,0,1,Yes,Private,High,82.27,N/A,never smoked,0
+10416,Secondary School,71,0,1,Yes,Private,Normal,215.72,39.2,smokes,0
+19504,Bachelor,66,0,0,Yes,Private,High,87.84,52.8,Unknown,0
+45751,Secondary School,73,1,0,Yes,Freelance,High,202.57,37.4,never smoked,0
+18890,Secondary School,69,1,0,Yes,Private,High,87.93,33.6,never smoked,0
+67667,Bachelor,72,1,0,Yes,Freelance,High,112.12,30.5,never smoked,0
+50363,Bachelor,73,1,0,Yes,Private,High,60.98,29.9,formerly smoked,0
+63457,Bachelor,78,0,1,No,Freelance,Normal,110.78,22.9,never smoked,0
+18595,Bachelor,77,0,0,Yes,Private,Normal,99.78,38,never smoked,0
+67243,Bachelor,75,0,1,Yes,Private,Normal,206.15,25.4,never smoked,0
+3494,Bachelor,80,0,0,Yes,Private,High,102.9,26.7,Unknown,0
+5505,Bachelor,76,0,0,Yes,Private,Normal,196.61,23,never smoked,0
+56645,Bachelor,79,0,0,Yes,Officer,High,79.16,34.8,formerly smoked,0
+16652,Bachelor,69,0,0,Yes,Freelance,Normal,99.68,17.6,formerly smoked,0
+32445,Bachelor,78,0,0,Yes,Freelance,Normal,79.55,21.1,formerly smoked,0
+23488,Secondary School,80,1,0,Yes,Freelance,Normal,213.33,31.1,formerly smoked,0
+72819,Bachelor,82,0,0,Yes,Freelance,Normal,243.59,24.3,never smoked,0
+8778,Bachelor,79,0,0,Yes,Freelance,High,97.81,26.6,formerly smoked,0
+2005,Secondary School,78,0,1,Yes,Freelance,Normal,169.43,23.5,formerly smoked,0
+30790,Bachelor,75,1,0,Yes,Officer,Normal,88.83,41.7,never smoked,0
+65693,Secondary School,67,0,0,Yes,Officer,High,59,29.5,Unknown,0
+3746,Bachelor,66,0,0,Yes,Private,Normal,76.83,26,never smoked,0
+33952,Secondary School,66,1,0,Yes,Private,Normal,82.91,28.9,formerly smoked,0
+49702,Bachelor,81,0,0,Yes,Freelance,High,101.32,29.6,formerly smoked,0
+15313,Bachelor,69,1,0,Yes,Officer,Normal,208.2,32.6,formerly smoked,0
+45461,Bachelor,70,0,0,Yes,Private,Normal,91.28,30.1,Unknown,0
+67911,Secondary School,80,0,0,No,Freelance,High,235.54,37.4,formerly smoked,0
+16856,Bachelor,69,0,0,Yes,Private,High,84.46,19.9,Unknown,0
+62414,Secondary School,80,1,0,Yes,Freelance,Normal,178.89,27.4,Unknown,0
+15070,Secondary School,76,0,1,Yes,Private,High,213.8,22,never smoked,0
+20165,Bachelor,77,0,0,Yes,Private,Normal,250.8,32.9,never smoked,0
+19199,Bachelor,73,1,0,Yes,Private,High,217.84,N/A,never smoked,0
+60003,Secondary School,81,0,0,Yes,Officer,High,89.02,26.9,never smoked,0
+2952,Secondary School,70,1,1,Yes,Private,High,93.62,35.8,never smoked,0
+2457,Bachelor,67,0,1,Yes,Freelance,High,94.45,29.6,formerly smoked,0
+20657,Bachelor,67,0,0,Yes,Private,Normal,227.96,32.8,Unknown,0
+31201,Bachelor,79,0,0,No,Freelance,Normal,79.2,32.6,never smoked,0
+59359,Secondary School,79,0,0,Yes,Freelance,Normal,105.93,25.2,never smoked,0
+2885,Secondary School,72,1,0,Yes,Private,High,231.71,N/A,Unknown,0
+51084,Bachelor,80,0,0,Yes,Private,Normal,62.62,23.1,formerly smoked,0
+54371,Secondary School,78,0,0,Yes,Officer,Normal,143.47,27.6,formerly smoked,0
+51342,Bachelor,69,0,0,Yes,Officer,High,70.98,30,Unknown,0
+14976,Secondary School,80,0,1,Yes,Private,High,82.41,26.3,smokes,0
+13386,Bachelor,71,0,1,Yes,Freelance,High,98.45,29.7,Unknown,0
+22254,Bachelor,76,0,0,Yes,Private,High,113.68,22.8,Unknown,0
+58235,Secondary School,76,0,0,Yes,Private,Normal,58.65,25.6,smokes,0
+21162,Bachelor,78,0,0,Yes,Freelance,High,81.68,23,Unknown,0
+6233,Secondary School,70,1,0,Yes,Freelance,High,118.81,26,smokes,0
+65196,Secondary School,75,1,0,Yes,Private,High,198.79,N/A,smokes,0
+13375,Secondary School,76,0,0,Yes,Private,Normal,192.39,31,never smoked,0
+37526,Bachelor,68,1,1,Yes,Private,High,233.3,N/A,Unknown,0
+59454,Bachelor,79,0,0,Yes,Freelance,Normal,74.35,28.5,formerly smoked,0
+61245,Secondary School,75,0,0,Yes,Freelance,High,82.35,25.3,never smoked,0
+42284,Secondary School,71,1,0,Yes,Freelance,High,97.57,26.9,Unknown,0
+11327,Bachelor,82,0,0,Yes,Freelance,Normal,79.96,27,formerly smoked,0
+56995,Bachelor,81,0,0,Yes,Private,Normal,82.86,25,never smoked,0
+45139,Bachelor,79,0,1,Yes,Private,High,201.38,31.1,never smoked,0
+966,Bachelor,70,1,0,Yes,Freelance,High,103.89,30,never smoked,0
+6368,Secondary School,72,0,1,Yes,Private,Normal,99.76,27.1,formerly smoked,0
+60276,Secondary School,78,1,1,Yes,Freelance,High,106.41,27.3,never smoked,0
+28400,Secondary School,69,0,0,Yes,Freelance,Normal,92.73,27.7,never smoked,0
+38737,Secondary School,77,0,0,Yes,Freelance,Normal,60.77,23,smokes,0
+9079,Bachelor,76,0,1,Yes,Freelance,Normal,202.21,39.3,formerly smoked,0
+68568,Bachelor,72,0,0,Yes,Freelance,High,57.28,23.9,never smoked,0
+29314,Bachelor,73,1,1,Yes,Officer,Normal,67.38,32.8,formerly smoked,0
+60586,Bachelor,68,0,0,Yes,Private,High,85.29,27.1,formerly smoked,0
+11392,Secondary School,75,0,0,Yes,Private,High,70.73,26.7,smokes,0
+259,Secondary School,79,0,0,Yes,Private,Normal,198.79,24.9,never smoked,0
+1666,Secondary School,70,0,0,Yes,Officer,Normal,202.55,N/A,formerly smoked,0
+58061,Bachelor,70,1,0,Yes,Freelance,High,154.6,28.5,formerly smoked,0
+10396,Secondary School,79,1,0,No,Private,Normal,96.52,21.7,Unknown,0
+14695,Secondary School,80,1,0,Yes,Freelance,High,232.12,28.8,never smoked,0
+40870,Bachelor,75,0,0,Yes,Officer,Normal,73.89,20.9,Unknown,0
+57494,Bachelor,82,1,0,Yes,Freelance,Normal,107.21,27,formerly smoked,0
+55567,Bachelor,76,0,1,Yes,Private,High,86.09,28.1,never smoked,0
+33562,Secondary School,71,0,1,Yes,Officer,High,72.94,32.3,formerly smoked,0
+4750,Secondary School,78,0,0,Yes,Private,Normal,85.03,26.1,formerly smoked,0
+4498,Secondary School,71,0,1,Yes,Private,Normal,204.98,N/A,formerly smoked,0
+3135,Bachelor,73,0,0,No,Freelance,High,69.35,N/A,never smoked,0
+33009,Secondary School,76,0,0,Yes,Freelance,High,221.8,44.7,formerly smoked,0
+37253,Bachelor,70,1,0,Yes,Private,Normal,147.12,22.3,formerly smoked,0
+18143,Secondary School,79,0,0,Yes,Freelance,High,103.21,22.9,formerly smoked,0
+36366,Secondary School,77,0,0,Yes,Officer,Normal,64.4,27.8,never smoked,0
+13111,Bachelor,67,1,0,Yes,Private,High,85.48,N/A,smokes,0
+21192,Bachelor,78,0,0,Yes,Private,Normal,93.15,23.6,Unknown,0
+16550,Bachelor,69,0,1,No,Officer,Normal,202.38,34.6,Unknown,0
+7799,Bachelor,79,0,0,No,Freelance,Normal,77.59,33,never smoked,0
+58586,Secondary School,77,1,1,Yes,Freelance,Normal,80.92,28.9,smokes,0
+7754,Bachelor,72,0,0,Yes,Freelance,High,104.04,34.7,formerly smoked,0
+26267,Bachelor,76,0,0,Yes,Freelance,Normal,267.61,27.9,smokes,0
+53252,Secondary School,82,0,0,No,Freelance,Normal,161.95,30.8,never smoked,0
+39784,Bachelor,72,0,0,Yes,Freelance,Normal,65.12,28.3,never smoked,0
+71387,Bachelor,66,0,0,Yes,Officer,High,59.62,32.4,never smoked,0
+34400,Bachelor,77,1,0,Yes,Freelance,High,176.71,33.2,never smoked,0
+33532,Bachelor,73,0,1,Yes,Private,High,102.46,29.7,never smoked,0
+3442,Bachelor,79,0,0,No,Freelance,High,82.07,30.4,Unknown,0
+13358,Bachelor,75,0,0,Yes,Freelance,High,207.62,31.8,never smoked,0
+6032,Secondary School,78,0,0,Yes,Freelance,Normal,201.58,30.6,Unknown,0
+69979,Secondary School,73,0,0,Yes,Freelance,High,231.43,23,smokes,0
+14551,Bachelor,69,0,0,No,Private,Normal,102.48,30.2,formerly smoked,0
+34356,Bachelor,75,0,0,Yes,Private,High,108.72,29.2,formerly smoked,0
+2296,Secondary School,78,1,0,Yes,Freelance,Normal,90.19,N/A,Unknown,0
+1681,Bachelor,68,0,0,No,Private,Normal,82.85,N/A,smokes,0
+49849,Bachelor,82,0,0,Yes,Private,High,80.96,33.7,formerly smoked,0
+4964,Bachelor,72,1,0,Yes,Private,High,90.87,22.1,never smoked,0
+8819,Bachelor,68,0,0,Yes,Officer,High,215.33,27,formerly smoked,0
+47917,Bachelor,82,1,0,No,Private,High,61.47,22.9,never smoked,0
+61699,Secondary School,80,0,0,Yes,Private,High,94.96,22.1,formerly smoked,0
+14489,Bachelor,74,0,0,No,Freelance,Normal,89.52,39.2,Unknown,0
+38348,Bachelor,66,0,0,Yes,Private,Normal,80.1,32,never smoked,0
+11792,Bachelor,70,0,0,Yes,Private,Normal,90.49,28.9,formerly smoked,0
+49554,Secondary School,67,0,0,Yes,Private,High,65.51,33.2,formerly smoked,0
+32602,Secondary School,78,0,1,Yes,Freelance,Normal,87.77,30.8,Unknown,0
+21534,Secondary School,67,0,0,Yes,Private,Normal,260.85,N/A,Unknown,0
+20391,Bachelor,73,0,0,Yes,Officer,High,65.93,30.3,never smoked,0
+49270,Bachelor,81,0,0,Yes,Private,Normal,77.54,33.8,Unknown,0
+20375,Bachelor,78,0,0,Yes,Private,Normal,78.29,30.1,formerly smoked,0
+56635,Secondary School,76,1,0,Yes,Freelance,High,207.96,34.5,formerly smoked,0
+41593,Bachelor,76,0,0,Yes,Freelance,High,70.29,33.4,formerly smoked,0
+11111,Bachelor,66,1,0,Yes,Officer,Normal,205.01,52.7,formerly smoked,0
+71597,Bachelor,79,1,0,Yes,Private,High,64.44,26.9,formerly smoked,0
+56606,Bachelor,78,0,0,Yes,Freelance,Normal,56.95,26,Unknown,0
+14288,Bachelor,71,0,0,Yes,Private,High,91.85,27.6,formerly smoked,0
+23730,Bachelor,75,0,0,Yes,Freelance,Normal,108.62,25.1,Unknown,0
+22052,Bachelor,75,1,0,No,Freelance,High,91.85,21.4,formerly smoked,0
+69487,Bachelor,79,0,0,Yes,Freelance,Normal,57.77,24.1,formerly smoked,0
+44986,Bachelor,79,0,0,Yes,Freelance,Normal,78.32,32,Unknown,0
+71719,Secondary School,66,0,0,Yes,Officer,High,57.17,25.5,formerly smoked,0
+50455,Bachelor,67,0,0,Yes,Freelance,Normal,110.41,28.7,never smoked,0
+42999,Bachelor,68,0,0,Yes,Private,Normal,109.23,31.3,never smoked,0
+3205,Bachelor,79,0,0,Yes,Freelance,Normal,79.03,11.3,Unknown,0
+17893,Bachelor,82,0,0,Yes,Freelance,Normal,84.78,33.6,formerly smoked,0
+65794,Bachelor,81,1,0,Yes,Private,High,164.77,34.5,never smoked,0
+65955,Secondary School,81,1,1,No,Private,High,220.64,30,never smoked,0
+1301,Bachelor,74,0,0,No,Freelance,Normal,204.77,40.8,never smoked,0
+42348,Secondary School,72,0,1,Yes,Freelance,Normal,63.86,29.5,smokes,0
+45701,Bachelor,72,0,1,No,Freelance,High,124.38,23.4,formerly smoked,0
+65508,Secondary School,80,0,0,Yes,Officer,Normal,148.72,28.7,never smoked,0
+58466,Secondary School,77,0,0,Yes,Private,High,98.84,27.3,Unknown,0
+14063,Secondary School,81,0,1,No,Freelance,High,95.49,29.4,Unknown,0
+4753,Secondary School,82,0,1,Yes,Freelance,Normal,228.92,27.9,formerly smoked,0
+71424,Bachelor,75,1,0,Yes,Freelance,Normal,55.96,34.8,never smoked,0
+52234,Bachelor,72,0,0,Yes,Officer,Normal,104.05,33.5,never smoked,0
+65277,Bachelor,78,1,0,No,Freelance,High,198.12,29.1,never smoked,0
+52679,Bachelor,82,0,0,Yes,Freelance,High,78,31.3,formerly smoked,0
+13155,Bachelor,67,1,0,Yes,Officer,High,263.56,26.3,never smoked,0
+40167,Bachelor,79,1,1,Yes,Officer,High,83.61,21.4,smokes,0
+72354,Bachelor,80,1,0,Yes,Freelance,High,103.6,23.7,never smoked,0
+39017,Bachelor,72,0,0,Yes,Officer,High,118.22,21.9,formerly smoked,0
+34543,Bachelor,82,0,0,Yes,Freelance,High,84.42,25.7,Unknown,0
+42251,Secondary School,71,1,1,Yes,Freelance,High,67.06,26.7,smokes,0
+21661,Bachelor,68,0,0,Yes,Officer,Normal,228.05,51.9,Unknown,0
+4297,Secondary School,75,0,0,Yes,Officer,Normal,223.14,27.8,never smoked,0
+31344,Secondary School,82,0,0,Yes,Freelance,Normal,214.51,24,formerly smoked,0
+62306,Bachelor,69,1,0,Yes,Freelance,Normal,111.81,26.1,formerly smoked,0
+17745,Secondary School,79,1,0,Yes,Freelance,Normal,84.88,28.7,formerly smoked,0
+10323,Bachelor,66,0,0,Yes,Private,Normal,112.77,22.7,smokes,0
+43397,Secondary School,81,0,1,Yes,Freelance,High,68.27,25,Unknown,0
+69750,Bachelor,77,0,0,Yes,Freelance,Normal,151.23,24.9,never smoked,0
+13173,Secondary School,70,1,0,Yes,Private,Normal,214.77,15,formerly smoked,0
+16774,Bachelor,79,0,0,No,Freelance,Normal,74.36,39.2,Unknown,0
+38742,Bachelor,71,0,0,Yes,Private,Normal,80.34,29.2,never smoked,0
+69020,Bachelor,74,0,0,Yes,Private,Normal,83.5,25.8,never smoked,0
+71297,Bachelor,80,1,0,Yes,Private,Normal,125.89,28.9,smokes,0
+23535,Secondary School,72,0,1,Yes,Freelance,Normal,85.82,25,formerly smoked,0
+15824,Bachelor,67,0,0,Yes,Private,High,81.68,30.4,never smoked,0
+35648,Bachelor,74,0,0,Yes,Freelance,High,95.94,27,never smoked,0
+22272,Bachelor,71,1,0,Yes,Private,High,202.98,41.3,never smoked,0
+14000,Bachelor,72,1,1,Yes,Private,Normal,198.32,31.3,formerly smoked,0
+44656,Bachelor,69,1,0,Yes,Private,High,112.69,33.5,formerly smoked,0
+44886,Secondary School,69,1,0,Yes,Freelance,High,236.79,35.7,formerly smoked,0
+26076,Bachelor,75,1,0,Yes,Freelance,High,219.82,29.5,formerly smoked,0
+28247,Secondary School,82,0,0,No,Freelance,Normal,101.57,24.3,smokes,0
+17251,Bachelor,76,1,0,Yes,Freelance,Normal,78.7,27.6,formerly smoked,0
+40210,Secondary School,78,0,1,Yes,Freelance,High,206.62,28,formerly smoked,0
+72398,Bachelor,73,1,0,Yes,Private,Normal,110.38,26.3,never smoked,0
+61333,Bachelor,78,0,0,No,Freelance,High,68.35,31.4,Unknown,0
+69370,Secondary School,78,0,0,Yes,Officer,Normal,59.74,27,formerly smoked,0
+70268,Secondary School,82,0,0,Yes,Private,Normal,226.84,25.3,formerly smoked,0
+59749,Secondary School,81,0,0,Yes,Private,Normal,234.35,25.3,formerly smoked,0
+18866,Bachelor,75,0,0,Yes,Freelance,Normal,96.95,41.4,never smoked,0
+36909,Bachelor,66,0,0,Yes,Freelance,High,66.24,37.5,never smoked,0
+6528,Secondary School,75,0,0,Yes,Officer,Normal,200.73,25.7,formerly smoked,0
+42594,Secondary School,80,1,0,Yes,Officer,Normal,114.09,30.1,never smoked,0
+41362,Bachelor,74,0,0,Yes,Freelance,High,72.54,28.4,never smoked,0
+8983,Bachelor,80,1,0,Yes,Private,Normal,89.16,24,never smoked,0
+28527,Secondary School,71,0,0,No,Private,Normal,86.96,32.6,never smoked,0
+26539,Secondary School,69,0,0,Yes,Freelance,Normal,202.51,30.8,formerly smoked,0
+8614,Secondary School,78,0,1,Yes,Freelance,Normal,101.53,24.1,formerly smoked,0
+61336,Bachelor,69,0,0,Yes,Freelance,Normal,126.04,35.9,never smoked,0
+27647,Secondary School,80,0,1,Yes,Freelance,High,95.49,31.6,Unknown,0
+2291,Bachelor,80,1,0,Yes,Freelance,Normal,218,33.5,Unknown,0
+25630,Bachelor,69,0,0,Yes,Freelance,Normal,79.7,25,never smoked,0
+29326,Bachelor,75,0,0,Yes,Freelance,High,70.22,24.8,formerly smoked,0
+52051,Bachelor,75,0,0,Yes,Freelance,Normal,60.6,40.4,smokes,0
+55375,Secondary School,69,1,0,Yes,Private,High,73.29,29.4,never smoked,0
+44831,Bachelor,69,0,0,No,Private,Normal,59.31,31.4,smokes,0
+27176,Bachelor,69,0,0,Yes,Private,High,103.73,34.7,never smoked,0
+70874,Secondary School,71,1,0,Yes,Officer,Normal,153.08,21.5,Unknown,0
+34287,Bachelor,73,0,0,Yes,Freelance,High,98.69,27.6,Unknown,0
+29546,Secondary School,71,0,0,Yes,Officer,High,99.76,33.4,formerly smoked,0
+68721,Bachelor,78,0,0,Yes,Private,High,133.13,24.2,Unknown,0
+62791,Secondary School,79,1,1,Yes,Freelance,High,205.23,22,never smoked,0
+3942,Secondary School,72,0,1,Yes,Private,Normal,234.27,26.9,never smoked,0
+36524,Secondary School,66,0,1,Yes,Private,High,239.21,33.7,formerly smoked,0
+61827,Secondary School,80,0,0,Yes,Freelance,High,196.08,31,formerly smoked,0
+42628,Bachelor,69,0,1,No,Private,Normal,193.45,34.5,never smoked,0
+11250,Secondary School,78,0,0,Yes,Freelance,High,93.85,22.7,formerly smoked,0
+44259,Bachelor,74,0,0,Yes,Private,Normal,130.37,26.3,Unknown,0
+37446,Secondary School,78,0,0,Yes,Private,High,79.84,25.9,never smoked,0
+8541,Bachelor,75,0,0,Yes,Officer,High,94.77,27.2,never smoked,0
+50638,Bachelor,66,0,0,Yes,Officer,Normal,72.53,25.3,smokes,0
+43892,Bachelor,73,0,0,Yes,Private,High,81.78,28.8,never smoked,0
+16079,Bachelor,67,0,0,Yes,Private,Normal,100.16,31.8,Unknown,0
+63836,Secondary School,81,1,1,Yes,Officer,High,217.94,24.1,formerly smoked,0
+53748,Secondary School,77,0,0,Yes,Freelance,Normal,57.6,32.2,Unknown,0
+45260,Bachelor,68,0,0,Yes,Freelance,Normal,71.08,21.5,never smoked,0
+23850,Secondary School,66,0,0,Yes,Private,Normal,103.01,33.1,never smoked,0
+2544,Secondary School,78,0,0,Yes,Private,Normal,208.85,24.4,formerly smoked,0
+6172,Bachelor,79,0,0,Yes,Private,High,208.05,N/A,smokes,0
+6443,Bachelor,66,0,0,Yes,Private,Normal,95.37,34.5,smokes,0
+19931,Secondary School,66,0,0,Yes,Freelance,High,106.1,31.5,smokes,0
+21101,Secondary School,71,0,0,Yes,Private,High,67.99,31.1,never smoked,0
+27660,Bachelor,73,1,0,No,Freelance,High,198.3,54.3,formerly smoked,0
+2313,Bachelor,75,0,1,Yes,Freelance,Normal,83.88,N/A,smokes,0
+27948,Secondary School,76,0,0,Yes,Freelance,High,117.63,26.2,never smoked,0
+2467,Bachelor,79,1,0,Yes,Freelance,High,92.43,N/A,never smoked,0
+55356,Bachelor,80,0,0,Yes,Freelance,Normal,223.26,25.4,never smoked,0
+49400,Secondary School,75,0,0,Yes,Private,High,97.22,28.4,never smoked,0
+31692,Secondary School,67,0,0,Yes,Private,High,83.16,28.3,never smoked,0
+69404,Secondary School,73,0,0,Yes,Officer,High,76.45,28.7,Unknown,0
+68291,Secondary School,76,0,0,Yes,Private,Normal,147.5,28.7,Unknown,0
+8009,Bachelor,72,1,1,Yes,Private,Normal,217.79,26.1,formerly smoked,0
+42159,Bachelor,81,1,0,Yes,Freelance,Normal,181.23,36.7,never smoked,0
+46343,Bachelor,79,0,0,Yes,Private,Normal,71.46,33.4,Unknown,0
+768,Bachelor,74,0,0,Yes,Freelance,Normal,68.18,27.3,formerly smoked,0
+68330,Bachelor,69,0,0,Yes,Freelance,High,110.96,25.9,never smoked,0
+53694,Secondary School,79,0,0,No,Freelance,Normal,128.72,31,Unknown,0
+17683,Secondary School,66,0,0,Yes,Freelance,Normal,96.19,38.3,smokes,0
+10636,Bachelor,74,0,0,Yes,Freelance,High,82.27,23.6,formerly smoked,0
+71659,Bachelor,70,0,0,Yes,Officer,High,158.33,33.5,never smoked,0
+27705,Bachelor,82,0,1,Yes,Freelance,High,88.6,32.5,Unknown,0
+25510,Secondary School,82,0,0,Yes,Freelance,Normal,111.81,19.8,formerly smoked,0
+40704,Secondary School,80,0,0,No,Private,Normal,59.49,25.6,Unknown,0
+43028,Secondary School,66,0,0,Yes,Freelance,High,55.23,28.9,Unknown,0
+50210,Secondary School,79,0,0,Yes,Freelance,Normal,113.41,35,never smoked,0
+32523,Secondary School,68,0,1,Yes,Private,Normal,217.74,25.5,Unknown,0
+16377,Secondary School,69,0,0,Yes,Private,Normal,89.06,34.8,formerly smoked,0
+11312,Bachelor,78,0,0,Yes,Freelance,High,208.99,31.4,formerly smoked,0
+51823,Secondary School,72,0,0,Yes,Freelance,Normal,123.08,25.4,smokes,0
+2692,Bachelor,80,0,0,Yes,Freelance,Normal,73.87,33.7,never smoked,0
+2580,Secondary School,66,0,1,No,Officer,Normal,70.28,34.5,never smoked,0
+57080,Bachelor,81,1,1,Yes,Freelance,Normal,59.11,20.7,formerly smoked,0
+40980,Secondary School,79,1,0,Yes,Freelance,Normal,72.04,23.6,formerly smoked,0
+45563,Bachelor,72,0,1,Yes,Freelance,Normal,142.63,32.9,smokes,0
+46454,Bachelor,79,0,0,Yes,Officer,Normal,63.57,32.4,never smoked,0
+47113,Bachelor,67,0,0,Yes,Freelance,High,110.42,24.9,never smoked,0
+4148,Secondary School,81,0,0,Yes,Freelance,Normal,71.18,23.9,formerly smoked,0
+19498,Bachelor,81,0,1,No,Freelance,Normal,99.44,27.7,Unknown,0
+45372,Secondary School,68,0,0,Yes,Freelance,High,76.09,26,smokes,0
+26884,Bachelor,72,0,0,Yes,Freelance,Normal,103.78,32.7,formerly smoked,0
+40998,Bachelor,81,0,0,Yes,Freelance,High,58.01,27.8,never smoked,0
+57343,Bachelor,71,0,0,Yes,Private,Normal,134.65,32.4,Unknown,0
+57645,Bachelor,75,0,0,Yes,Officer,High,132.46,26.2,Unknown,0
+50410,Bachelor,78,0,0,No,Officer,High,76.64,34.6,never smoked,0
+31642,Bachelor,66,0,0,Yes,Freelance,High,85.9,34.6,never smoked,0
+7924,Bachelor,67,0,0,Yes,Private,Normal,101.46,25.9,formerly smoked,0
+56594,Bachelor,70,0,0,Yes,Private,Normal,77.77,33.8,smokes,0
+2818,Bachelor,80,0,0,No,Freelance,High,230.74,30.2,formerly smoked,0
+3013,Bachelor,79,0,0,Yes,Freelance,High,83.7,28.7,never smoked,0
+53802,Secondary School,80,0,1,Yes,Private,High,125.32,32.9,Unknown,0
+71515,Bachelor,66,0,0,Yes,Private,High,200.91,27.6,never smoked,0
+49930,Bachelor,68,0,0,Yes,Private,High,236.04,28.5,never smoked,0
+28513,Bachelor,73,0,0,Yes,Private,High,88.98,20.6,smokes,0
+12367,Bachelor,66,0,0,Yes,Freelance,Normal,94.39,29.4,Unknown,0
+10166,Secondary School,66,0,0,No,Officer,High,77.91,39.1,Unknown,0
+38207,Bachelor,79,1,0,Yes,Freelance,High,76.64,19.5,never smoked,0
+46517,Bachelor,66,0,1,Yes,Private,High,196.58,41.9,formerly smoked,0
+31153,Secondary School,66,0,0,Yes,Freelance,High,189.82,28.8,formerly smoked,0
+52247,Bachelor,75,0,0,Yes,Officer,Normal,89.68,38.7,never smoked,0
+33560,Bachelor,81,0,1,Yes,Officer,Normal,90.11,28.6,never smoked,0
+37866,Bachelor,76,0,0,Yes,Freelance,Normal,193.61,37.6,never smoked,0
+15464,Bachelor,71,1,1,Yes,Private,High,221.24,24.2,Unknown,0
+56339,Bachelor,79,0,0,Yes,Freelance,High,65.58,26.1,Unknown,0
+14996,Secondary School,66,0,0,Yes,Freelance,High,85.98,28,Unknown,0
+1552,Secondary School,73,0,0,Yes,Private,Normal,101.58,35.9,never smoked,0
+68853,Bachelor,70,0,0,Yes,Private,High,149.8,47.6,Unknown,0
+711,Secondary School,81,0,0,Yes,Private,High,92.96,22.2,never smoked,0
+31703,Secondary School,66,0,0,Yes,Freelance,Normal,85.82,27.8,never smoked,0
+60964,Bachelor,71,1,0,Yes,Officer,High,105.72,29.1,formerly smoked,0
+72215,Bachelor,66,0,0,Yes,Freelance,High,212.92,21.4,never smoked,0
+41715,Bachelor,79,1,0,Yes,Freelance,High,74,29.6,never smoked,0
+32638,Bachelor,73,1,0,Yes,Freelance,High,124.78,35.6,never smoked,0
+47144,Bachelor,74,0,0,Yes,Freelance,Normal,88.62,28.5,formerly smoked,0
+6472,Bachelor,78,0,0,Yes,Officer,Normal,101.76,N/A,smokes,0
+46670,Bachelor,75,1,0,Yes,Freelance,High,197.06,26.1,never smoked,0
+31426,Bachelor,81,1,0,Yes,Officer,Normal,216.07,43.4,never smoked,0
+11908,Bachelor,69,0,0,Yes,Freelance,Normal,83.55,28.3,formerly smoked,0
+12668,Secondary School,68,0,0,Yes,Freelance,Normal,195.43,28.9,never smoked,0
+71846,Bachelor,76,0,0,Yes,Officer,Normal,223.64,27.1,smokes,0
+19271,Bachelor,82,1,1,Yes,Freelance,Normal,101.56,31.5,never smoked,0
+56425,Bachelor,78,0,0,Yes,Officer,High,61.38,24.3,Unknown,0
+37640,Bachelor,67,0,0,Yes,Officer,High,125.33,26.4,Unknown,0
+53115,Bachelor,78,0,0,Yes,Officer,Normal,73.56,27.5,formerly smoked,0
+50557,Bachelor,68,0,0,Yes,Freelance,Normal,222.58,37.4,smokes,0
+63880,Bachelor,69,0,0,Yes,Freelance,Normal,70,36,never smoked,0
+57043,Bachelor,66,0,0,Yes,Freelance,Normal,102.73,35,formerly smoked,0
+55545,Bachelor,66,0,0,Yes,Freelance,High,74.88,32.6,never smoked,0
+16136,Bachelor,78,0,0,Yes,Freelance,Normal,84.21,33.7,never smoked,0
+29172,Bachelor,68,0,0,Yes,Freelance,High,80.63,20.2,never smoked,0
+16029,Bachelor,70,0,0,Yes,Freelance,High,96.82,25,never smoked,0
+18263,Bachelor,78,0,0,Yes,Freelance,Normal,234.06,33.7,never smoked,0
+52934,Secondary School,79,0,0,Yes,Freelance,Normal,242.62,25.5,never smoked,0
+2044,Bachelor,70,0,1,Yes,Freelance,High,65.68,N/A,Unknown,0
+23968,Bachelor,79,0,0,Yes,Officer,High,90.16,34.4,never smoked,0
+54395,Bachelor,78,1,0,Yes,Freelance,High,152.38,31.8,never smoked,0
+69284,Bachelor,81,1,0,Yes,Freelance,Normal,174.54,26.4,never smoked,0
+54022,Bachelor,78,0,0,Yes,Freelance,High,67.9,35.3,never smoked,0
+68981,Bachelor,71,1,0,Yes,Officer,Normal,219.8,34.2,formerly smoked,0
+16902,Bachelor,70,0,1,Yes,Freelance,Normal,240.69,N/A,smokes,0
+27509,Bachelor,76,1,0,Yes,Freelance,Normal,78.68,23.3,never smoked,0
+42626,Bachelor,76,1,0,Yes,Officer,High,63.28,28.2,never smoked,0
+12037,Bachelor,73,0,0,Yes,Freelance,High,77.29,22.6,never smoked,0
+67159,Secondary School,73,1,0,No,Officer,Normal,71.29,37.7,never smoked,0
+40850,Bachelor,74,0,0,Yes,Officer,Normal,111.94,21.7,never smoked,0
+48118,Bachelor,82,0,0,Yes,Freelance,Normal,113.45,30.3,never smoked,0
+35446,Secondary School,73,0,0,Yes,Officer,High,208.69,30,Unknown,0
+11098,Secondary School,75,0,0,Yes,Officer,High,93.93,24.4,formerly smoked,0
+1731,Bachelor,80,0,0,No,Freelance,Normal,72.71,29.9,never smoked,0
+57757,Bachelor,77,0,0,Yes,Freelance,High,59.91,18.3,never smoked,0
+60426,Bachelor,69,0,0,Yes,Freelance,Normal,67.55,38.1,Unknown,0
+41842,Secondary School,75,0,0,Yes,Officer,High,79.49,28.9,Unknown,0
+25931,Bachelor,71,0,0,Yes,Freelance,Normal,208.31,31.8,formerly smoked,0
+64661,Bachelor,81,0,0,No,Freelance,Normal,57.42,33.7,never smoked,0
+30525,Bachelor,79,0,0,Yes,Officer,Normal,95.42,21.5,formerly smoked,0
+26742,Bachelor,68,0,0,Yes,Officer,Normal,96.75,28.4,formerly smoked,0
+58635,Bachelor,72,0,0,Yes,Freelance,Normal,74.17,35.5,formerly smoked,0
+19826,Bachelor,81,0,0,Yes,Freelance,High,86.05,20.1,formerly smoked,0
+11184,Bachelor,82,0,0,Yes,Freelance,High,211.58,36.9,never smoked,0
+66684,Secondary School,70,0,0,Yes,Freelance,High,193.88,24.3,Unknown,0
+49598,Secondary School,80,0,0,Yes,Freelance,Normal,120.03,24.3,formerly smoked,0
+56799,Secondary School,76,0,0,Yes,Officer,Normal,82.35,38.9,never smoked,0
+64520,Secondary School,68,0,0,Yes,Freelance,Normal,91.68,40.8,Unknown,0
+68398,Secondary School,82,1,0,Yes,Freelance,High,71.97,28.3,never smoked,0
+44873,Bachelor,81,0,0,Yes,Freelance,Normal,125.2,40,never smoked,0
